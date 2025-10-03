@@ -139,7 +139,7 @@ export const projects = [
     process: ``,
     creative: ``,
     learnings: ``
-  }
+  },
 
   {
   id: '11',
