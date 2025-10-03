@@ -143,7 +143,7 @@ export const projects = [
 
   {
   id: '11',
-  //   title: 'La Nuit du Péché',
+  title: 'La Nuit du Péché',
   //   description: "Conception de toute la signalétique d’un événement culturel, inspirée d’une œuvre du Musée des Beaux-Arts de Dijon, dans le cadre d’un projet de deuxième année de MMI.",
   //   tools: ['Photoshop', 'Illustrator'],
   //   category: 'Design',
